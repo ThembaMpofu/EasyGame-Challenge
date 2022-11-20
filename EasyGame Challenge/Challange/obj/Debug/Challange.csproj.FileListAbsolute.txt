@@ -1,0 +1,12 @@
+D:\class\pgr2\chanllange\Challange\Challange\bin\Debug\Challange.exe.config
+D:\class\pgr2\chanllange\Challange\Challange\bin\Debug\Challange.exe
+D:\class\pgr2\chanllange\Challange\Challange\bin\Debug\Challange.pdb
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.csproj.AssemblyReference.cache
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.csproj.SuggestedBindingRedirects.cache
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.Properties.Resources.resources
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.csproj.GenerateResource.cache
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.csproj.CoreCompileInputs.cache
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.exe
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.pdb
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.Main.resources
+D:\class\pgr2\chanllange\Challange\Challange\obj\Debug\Challange.Transactions.resources
